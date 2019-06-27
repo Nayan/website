@@ -61,8 +61,9 @@
                             <div>
                                 <span class="type--fine-print">&copy;
                                     <span class="update-year"></span> Conflux Technlogies Pvt Ltd</span>
-                                <a class="type--fine-print" href="#">Privacy Policy</a>
-                                <a class="type--fine-print" href="#">Legal</a>
+                                <a class="type--fine-print" href="/privacy-policy.php">Privacy Policy</a>
+                                <a class="type--fine-print" href="/terms-of-service.php">Terms of Service</a>
+                                <a class="type--fine-print" href="/security-and-compliance.php">Security and Compliance Policy</a>
                             </div>
                         </div>
                     </div>

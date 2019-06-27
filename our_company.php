@@ -184,7 +184,7 @@
 								<div class="feature">
 									<img class="cardimg" alt="Ashok Auty" src="img/ashok-auty.png" />
 									<h4>Ashok Auty</h4>
-									<span>Co-Founder &amp; Cheif Technolgy Officer</span>
+									<span>Co-Founder &amp; Chief Technolgy Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
@@ -204,7 +204,7 @@
 								<div class="feature">
 									<img class="cardimg" alt="Nayan Ambali" src="img/nayan_ambali.jpg" />
 									<h4>Nayan Ambali</h4>
-									<span>Co-Founder &amp; Cheif Marketing Officer</span>
+									<span>Co-Founder &amp; Chief Marketing Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
@@ -224,7 +224,7 @@
 								<div class="feature">
 									<img class="cardimg" alt="Binny Gopinath" src="img/binny_gopinath.png" />
 									<h4>Binny Gopinath</h4>
-									<span>Partner &amp; Chief Operating Officer</span>
+									<span>Co-Founder &amp; Chief Operating Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">

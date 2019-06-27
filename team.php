@@ -181,7 +181,7 @@
 								<div class="feature">
 									<img class="cardimg" alt="Ashok Auty" src="img/ashok-auty.png" />
 									<h4>Ashok Auty</h4>
-									<span>Co-Founder &amp; Cheif Technolgy Officer</span>
+									<span>Co-Founder &amp; Chief Technolgy Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
@@ -201,7 +201,7 @@
 								<div class="feature">
 									<img class="cardimg" alt="Nayan Ambali" src="img/nayan_ambali.jpg" />
 									<h4>Nayan Ambali</h4>
-									<span>Co-Founder &amp; Cheif Marketing Officer</span>
+									<span>Co-Founder &amp; Chief Marketing Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
@@ -221,7 +221,7 @@
 								<div class="feature">
 									<img class="cardimg" alt="Binny Gopinath" src="img/binny_gopinath.png" />
 									<h4>Binny Gopinath</h4>
-									<span>Partner &amp; Chief Operating Officer</span>
+									<span>Co-Founder &amp; Chief Operating Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
@@ -286,15 +286,6 @@
         <?php include("./common/footer.php"); ?>
         </div>
         <!--<div class="loader"></div>-->
-        <?php include("./common/script.php"); ?>
-
-        <script>
-          window.fcSettings = {
-            token: "7cedc6fd-8e71-4050-abd7-a2f2a0596bca",
-            host: "https://wchat.freshchat.com"
-          };
-        </script>
-        <script src="https://wchat.freshchat.com/js/widget.js" async></script>
-        
+        <?php include("./common/script.php"); ?> 
     </body>
 </html>

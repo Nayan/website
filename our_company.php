@@ -163,14 +163,14 @@
 						<div class="col-sm-3">
 							<div class="card">
 								<div class="feature">
-									<img class="cardimg" alt="Navin Kesavan" src="img/navin-kesavan.jpg" />
-									<h4>Navin Kesavan</h4>
+									<img class="cardimg" alt="Vishwas Babu A.J." src="img/vishwasbabu_aj.png" />
+									<h4>Vishwas Babu A.J.</h4>
 									<span>Chief Executive Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
 											<li>
-												<a href="https://www.linkedin.com/in/navinkesavan/ " target="_blank">
+												<a href="https://www.linkedin.com/in/vishwasbabu/ " target="_blank">
 													<i class="socicon socicon-linkedin icon icon--xs"></i>
 												</a>
 											</li>

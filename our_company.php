@@ -163,14 +163,14 @@
 						<div class="col-sm-3">
 							<div class="card">
 								<div class="feature">
-									<img class="cardimg" alt="Vishwas Babu A.J." src="img/vishwasbabu_aj.png" />
-									<h4>Vishwas Babu A.J.</h4>
+									<img class="cardimg" alt="Nayan Ambali" src="img/nayan_ambali.jpg" />
+									<h4>Nayan Ambali</h4>
 									<span>Chief Executive Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
 											<li>
-												<a href="https://www.linkedin.com/in/vishwasbabu/ " target="_blank">
+												<a href="https://www.linkedin.com/in/nayanambali/" target="_blank">
 													<i class="socicon socicon-linkedin icon icon--xs"></i>
 												</a>
 											</li>
@@ -182,9 +182,29 @@
 						<div class="col-sm-3">
 							<div class="card">
 								<div class="feature">
+									<img class="cardimg" alt="Dhirendra Pratap" src="img/dhirendra_pratap.png" />
+									<h4>Dhirendra Pratap</h4>
+									<span>Chief Technolgy Officer</span>
+									<br/>
+									<div class="cardbottom">
+										<ul class="social-list list-inline list--hover">
+											<li>
+												<a href="https://www.linkedin.com/in/dhirendrapratap/" target="_blank">
+													<i class="socicon socicon-linkedin icon icon--xs"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-sm-3">
+							<div class="card">
+								<div class="feature">
 									<img class="cardimg" alt="Ashok Auty" src="img/ashok-auty.png" />
 									<h4>Ashok Auty</h4>
-									<span>Co-Founder &amp; Chief Technolgy Officer</span>
+									<span>Co-Founder &amp; Chief Operating Officer</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
@@ -202,29 +222,9 @@
 						<div class="col-sm-3">
 							<div class="card">
 								<div class="feature">
-									<img class="cardimg" alt="Nayan Ambali" src="img/nayan_ambali.jpg" />
-									<h4>Nayan Ambali</h4>
-									<span>Co-Founder &amp; Chief Marketing Officer</span>
-									<br/>
-									<div class="cardbottom">
-										<ul class="social-list list-inline list--hover">
-											<li>
-												<a href="https://www.linkedin.com/in/nayanambali/" target="_blank">
-													<i class="socicon socicon-linkedin icon icon--xs"></i>
-												</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-						
-						<div class="col-sm-3">
-							<div class="card">
-								<div class="feature">
 									<img class="cardimg" alt="Binny Gopinath" src="img/binny_gopinath.png" />
 									<h4>Binny Gopinath</h4>
-									<span>Co-Founder &amp; Chief Operating Officer</span>
+									<span>Co-founder &amp; Head - Customer Success</span>
 									<br/>
 									<div class="cardbottom">
 										<ul class="social-list list-inline list--hover">
